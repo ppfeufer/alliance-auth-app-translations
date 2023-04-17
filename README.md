@@ -1,0 +1,1 @@
+# alliance-auth-app-translations
